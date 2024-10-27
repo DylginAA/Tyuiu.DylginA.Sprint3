@@ -24,7 +24,7 @@ namespace Tyuiu.DylginA.Sprint3.Task1.V27
             Console.WriteLine("Начальное значение = 1");
             Console.WriteLine("Конечное значение = 5");
             Console.WriteLine("Х = 0,75");
-            double value = 0.75;
+            double value = 0.75; 
             int startValue = 1;
             int stopValue = 5;
             Console.WriteLine("***************************************************************************");
