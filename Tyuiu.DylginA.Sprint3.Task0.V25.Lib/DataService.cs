@@ -11,8 +11,9 @@ namespace Tyuiu.DylginA.Sprint3.Task0.V25.Lib
             for (i = startValue; i <= stopValue; i++)
             {
                 sumSeries = Math.Pow(4.0 / (1 + Math.Pow(value, i)), i);
-            }
+            } 
             return sumSeries;
+
         }
     }
 }
